@@ -1,0 +1,1291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{911C7820-B729-4A71-97C8-D34D9626899B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RBI</RootNamespace>
+    <AssemblyName>RBI</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Dat\Desktop\set22\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>rbi</ProductName>
+    <PublisherName>cortek</PublisherName>
+    <SuiteName>cortek</SuiteName>
+    <ApplicationRevision>6</ApplicationRevision>
+    <ApplicationVersion>1.1.1.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icons-Land-Points-Of-Interest-Factory-Yellow.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>09DEA3F955DAE95DD6EB0545D1CA0D94B1100772</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>RBI_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.v18.1.Core, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataAccess.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataAccess.v18.1.UI, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Docs.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Mvvm.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v18.1.Core, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v18.1.Core, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v18.1.Export, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v18.1.Core, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v18.1.Core, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Images.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Snap.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Snap.v18.1.Core, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Snap.v18.1.Extensions, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v18.1.Core, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.SpellChecker.v18.1.Core, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Spreadsheet.v18.1.Core, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v18.1.UI, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v18.1.UI, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v18.1.Wizard, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGrid.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraLayout.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraNavBar.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraRichEdit.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraRichEdit.v18.1.Extensions, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraSpellChecker.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraSpreadsheet.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Windows\assembly\GAC_MSIL\Microsoft.Office.Interop.Excel\15.0.0.0__71e9bce111e9429c\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="MigraDoc.DocumentObjectModel">
+      <HintPath>C:\Users\DO ANH TUAN\Desktop\PDFsharp-MigraDocFoundation-Assemblies-1_32\GDI+\MigraDoc.DocumentObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="MigraDoc.Rendering">
+      <HintPath>C:\Users\DO ANH TUAN\Desktop\PDFsharp-MigraDocFoundation-Assemblies-1_32\GDI+\MigraDoc.Rendering.dll</HintPath>
+    </Reference>
+    <Reference Include="MigraDoc.RtfRendering">
+      <HintPath>C:\Users\DO ANH TUAN\Desktop\PDFsharp-MigraDocFoundation-Assemblies-1_32\GDI+\MigraDoc.RtfRendering.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.10.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\MySQL\MySQL Connector Net 5.0.9\Binaries\.NET 2.0\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="PdfSharp">
+      <HintPath>C:\Users\DO ANH TUAN\Desktop\PDFsharp-MigraDocFoundation-Assemblies-1_32\GDI+\PdfSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="PdfSharp.Charting">
+      <HintPath>C:\Users\DO ANH TUAN\Desktop\PDFsharp-MigraDocFoundation-Assemblies-1_32\GDI+\PdfSharp.Charting.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BUS\BUSExcel\Bus_INSPECTION_HISTORY_Excel.cs" />
+    <Compile Include="BUS\BUSExcel\Bus_PLANT_PROCESS_Excel.cs" />
+    <Compile Include="BUS\BUSMSSQL\API_COMPONENT_TYPE_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\COMPONENT_DETAIL_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\COMPONENT_MASTER_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\COMPONENT_MODELLING_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\COMPONENT_TYPE _BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\DESIGN_CODE _BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\DM_CATEGORY_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\DM_EXPECTED_TYPE_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\DM_ITEMS_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\EQUIPMENT_EXTRA_FIELDS _BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\EQUIPMENT_MASTER _BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\EQUIPMENT_REVISION_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\EQUIPMENT_REVISION_INSPECTION_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\EQUIPMENT_REVISION_INSPECTION_COVERAGE_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\EQUIPMENT_TYPE _BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\EXTRA_FIELDS_LOOKUP_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\EXTRA_FIELDS_LOOKUP_COMPONENT_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\EXTRA_FIELDS_SETTING_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\EXTRA_FIELDS_SETTING_COMPONENT_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\FACILITY_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\FACILITY_RISK_TARGET_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\FILE_COMPONENT_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\FILE_EQUIPMENT_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\FILE_FACILITY_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\GENERIC_FLUID_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\GENERIC_MATERIAL_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\IMAGE_COMPONENT_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\IMAGE_EQUIPMENT_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\IMAGE_FACILITY_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\IM_ITEMS_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\IM_TYPE_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\INSPECTION_COVERAGE_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\INSPECTION_COVERAGE_DETAIL_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\INSPECTION_DETAIL_TECHNIQUE_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\INSPECTION_DM_RULE_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\INSPECTION_PLAN_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\ITEM_LIST_CONFIG_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\MANUFACTURER_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\POINTS_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\REPORT_TEMPLATE_ASSESSMENT_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\REPORT_TEMPLATE_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\REPORT_TEMPLATE_COMPONENT_DEFAULT_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\REPORT_TEMPLATE_EQUIPMENT_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_ASSESSMENT_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_CA_TANK_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_CF_MASTER_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_COATING_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_COMPONENT_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_CORROSION_RATE_TANK_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_DAMAGE_MECHANISM_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_EQUIPMENT_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_EXTCOR_TEMPERATURE_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_EXTRA_FIELDS_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_FULL_COF_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_FULL_COF_FLUID_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_FULL_COF_HOLE_SIZE_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_FULL_COF_INPUT_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_FULL_COF_TANK_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_FULL_FCOF_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_FULL_FINALCOF_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_FULL_POF_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_INPUT_CA_LEVEL_1_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_INPUT_CA_TANK_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_INSPECTION_HISTORY_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_LF_DETAIL_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_LF_MASTER_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_MATERIAL_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_POINTS_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_PRIMARY_FLUID_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_REVISION_INSPECTION_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_RISK_TARGET_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_SAFETY_FACTOR_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_SECONDARY_FLUID_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_SETTINGS_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_STREAM_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\RW_THICKNESS_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\SAFETY_FACTORS_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\SITES_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\THICKNESS_READING_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\UNITS_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\UNIT_DESCRIPTOR_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\USERS_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\USER_GROUPS_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\USER_PERMISSIONS_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL\USER_PERMISSION_LIST_BUS.cs" />
+    <Compile Include="BUS\BUSMSSQL_CAL\BUS_TOXIC.cs" />
+    <Compile Include="BUS\BUSMSSQL_CAL\BUS_UNITS.cs" />
+    <Compile Include="BUS\BUSMSSQL_CAL\CAL_DM_CAL_AMINE.cs" />
+    <Compile Include="BUS\BUSMSSQL_CAL\CAL_DM_CARBONATE_CRACKING.cs" />
+    <Compile Include="BUS\BUSMSSQL_CAL\CAL_DM_EXTERN_CUI_CLSCC.cs" />
+    <Compile Include="BUS\BUSMSSQL_CAL\CAL_DM_SCC_CRACKING.cs" />
+    <Compile Include="BUS\BUSMSSQL_CAL\Corrosion_Rate.cs" />
+    <Compile Include="BUS\BUSMSSQL_CAL\MSSQL_CA_CAL.cs" />
+    <Compile Include="BUS\BUSMSSQL_CAL\MSSQL_CA_CAL_FINAL.cs" />
+    <Compile Include="BUS\BUSMSSQL_CAL\MSSQL_CA_CAL_FLAMMABLE.cs" />
+    <Compile Include="BUS\BUSMSSQL_CAL\MSSQL_CA_CAL_TOXIC.cs" />
+    <Compile Include="BUS\BUSMSSQL_CAL\MSSQL_DM_CAL.cs" />
+    <Compile Include="BUS\BUSMSSQL_CAL\Table\Table6_3.cs" />
+    <Compile Include="BUS\BUSXML\ReadXML.cs" />
+    <Compile Include="BUS\sendEmail.cs" />
+    <Compile Include="DAL\ExcelConnect.cs" />
+    <Compile Include="DAL\MSSQL\API_ComponentTypeConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\COMPONENT_DETAIL_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\COMPONENT_MASTER_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\COMPONENT_MODELLING_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\COMPONENT_TYPE_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\DESIGN_CODE_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\DM_CATEGORY_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\DM_EXPECTED_TYPE_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\DM_ITEMS_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\EQUIPMENT_EXTRA_FIELDS_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\EQUIPMENT_MASTER_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\EQUIPMENT_REVISION_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\EQUIPMENT_REVISION_INSPECTION_Connectutils.cs" />
+    <Compile Include="DAL\MSSQL\EQUIPMENT_REVISION_INSPECTION_COVERAGE_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\EQUIPMENT_TYPE_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\EXTRA_FIELDS_LOOKUP_COMPONENT_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\EXTRA_FIELDS_LOOKUP_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\EXTRA_FIELDS_SETTING_COMPONENT_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\EXTRA_FIELDS_SETTING_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\FACILITY_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\FACILITY_RISK_TARGET_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\FILE_COMPONENT_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\FILE_EQUIPMENT_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\FILE_FACILITY_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\GENERIC_FLUID_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\GENERIC_MATERIAL_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\IMAGE_COMPONENT_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\IMAGE_EQUIPMENT_ConnectUtilscs.cs" />
+    <Compile Include="DAL\MSSQL\IMAGE_FACILITY_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\IM_ITEMS_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\IM_TYPE_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\INSPECTION_COVERAGE_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\INSPECTION_COVERAGE_DETAIL_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\INSPECTION_DETAIL_TECHNIQUE_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\INSPECTION_DM_RULE_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\INSPECTION_PLAN_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\ITEM_LIST_CONFIG_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\MANUFACTURER_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\MSSQLDBUtils.cs" />
+    <Compile Include="DAL\MSSQL\POINTS_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\PRD_COMPONENT_MASTER_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\REPORT_TEMPLATE_ASSESSMENT_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\REPORT_TEMPLATE_COMPONENT_DEFAULT_ConnectUtilscs.cs" />
+    <Compile Include="DAL\MSSQL\REPORT_TEMPLATE_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\REPORT_TEMPLATE_EQUIPMENT_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_ASSESSMENT_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_CA_TANK_ConnUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_CF_MASTER_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_COATING_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_COMPONENT_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_CORROSION_RATE_TANK_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_DAMAGE_MECHANISM_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_EQUIPMENT_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_EXTCOR_TEMPERATURE_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_EXTRA_FIELDS_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_EXTRA_FIELDS_ConnetUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_FULL_COF_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_FULL_COF_FLUID_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_FULL_COF_HOLE_SIZE_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_FULL_COF_INPUT_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_FULL_COF_TANK_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_FULL_FCOF_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_FULL_FINALCOF_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_FULL_POF_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_INPUT_CA_LEVEL_1_ConnUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_INPUT_CA_TANK_ConnUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_INSPECTION_DETAIL_ConnUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_LF_DETAIL_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_LF_MASTER_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_MATERIAL_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_POINTS_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_PRIMARY_FLUID_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_REVISION_INSPECTION_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_RISK_TARGET_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_SAFETY_FACTOR_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_SECONDARY_FLUID_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_SETTINGS_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_STREAM_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\RW_THICKNESS_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\SAFETY_FACTORS_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\SITES_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\SQL_DBConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\THICKNESS_READING_ConnectUtilscs.cs" />
+    <Compile Include="DAL\MSSQL\UNITS_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\UNIT_DESCRIPTOR_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\USERS_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\USERS_PERMISSON_List_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\USER_GROUPS_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL\USER_PERMISSIONS_ConnectUtils.cs" />
+    <Compile Include="DAL\MSSQL_CAL\MSSQL_RBI_CAL_ConnUtils.cs" />
+    <Compile Include="Object\Component.cs" />
+    <Compile Include="Object\DataUCChangedEventArgs.cs" />
+    <Compile Include="Object\InputInspectionCalculation.cs" />
+    <Compile Include="Object\CtrlSPressEventArgs.cs" />
+    <Compile Include="Object\ObjectMSSQL\API_COMPONENT_TYPE.cs" />
+    <Compile Include="Object\ObjectMSSQL\Damage_Mechanism.cs" />
+    <Compile Include="Object\ObjectMSSQL\INSPECTION_DETAIL_TECHNIQUE.cs" />
+    <Compile Include="Object\ObjectMSSQL\COMPONENT_DETAIL.cs" />
+    <Compile Include="Object\ObjectMSSQL\COMPONENT_MASTER.cs" />
+    <Compile Include="Object\ObjectMSSQL\COMPONENT_MODELLING.cs" />
+    <Compile Include="Object\ObjectMSSQL\COMPONENT_TYPE.cs" />
+    <Compile Include="Object\ObjectMSSQL\DESIGN_CODE.cs" />
+    <Compile Include="Object\ObjectMSSQL\DM_CATEGORY.cs" />
+    <Compile Include="Object\ObjectMSSQL\DM_EXPECTED_TYPE.cs" />
+    <Compile Include="Object\ObjectMSSQL\DM_ITEMS.cs" />
+    <Compile Include="Object\ObjectMSSQL\EQUIPMENT_EXTRA_FIELDS.cs" />
+    <Compile Include="Object\ObjectMSSQL\EQUIPMENT_MASTER.cs" />
+    <Compile Include="Object\ObjectMSSQL\EQUIPMENT_REVISION.cs" />
+    <Compile Include="Object\ObjectMSSQL\EQUIPMENT_REVISION_INSPECTION.cs" />
+    <Compile Include="Object\ObjectMSSQL\EQUIPMENT_REVISION_INSPECTION_COVERAGE.cs" />
+    <Compile Include="Object\ObjectMSSQL\EQUIPMENT_TYPE.cs" />
+    <Compile Include="Object\ObjectMSSQL\EXTRA_FIELDS_LOOKUP.cs" />
+    <Compile Include="Object\ObjectMSSQL\EXTRA_FIELDS_LOOKUP_COMPONENT.cs" />
+    <Compile Include="Object\ObjectMSSQL\EXTRA_FIELDS_SETTING.cs" />
+    <Compile Include="Object\ObjectMSSQL\EXTRA_FIELDS_SETTING_COMPONENT.cs" />
+    <Compile Include="Object\ObjectMSSQL\FACILITY.cs" />
+    <Compile Include="Object\ObjectMSSQL\FACILITY_RISK_TARGET.cs" />
+    <Compile Include="Object\ObjectMSSQL\FILE_COMPONENT.cs" />
+    <Compile Include="Object\ObjectMSSQL\FILE_EQUIPMENT.cs" />
+    <Compile Include="Object\ObjectMSSQL\FILE_FACILITY.cs" />
+    <Compile Include="Object\ObjectMSSQL\GENERIC_FLUID.cs" />
+    <Compile Include="Object\ObjectMSSQL\GENERIC_MATERIAL.cs" />
+    <Compile Include="Object\ObjectMSSQL\IMAGE_COMPONENT.cs" />
+    <Compile Include="Object\ObjectMSSQL\IMAGE_EQUIPMENT.cs" />
+    <Compile Include="Object\ObjectMSSQL\IMAGE_FACILITY.cs" />
+    <Compile Include="Object\ObjectMSSQL\IM_ITEMS.cs" />
+    <Compile Include="Object\ObjectMSSQL\IM_TYPE.cs" />
+    <Compile Include="Object\ObjectMSSQL\INSPECTION_COVERAGE.cs" />
+    <Compile Include="Object\ObjectMSSQL\INSPECTION_COVERAGE_DETAIL.cs" />
+    <Compile Include="Object\ObjectMSSQL\INSPECTION_DM_RULE.cs" />
+    <Compile Include="Object\ObjectMSSQL\INSPECTION_EFFECTIVENESS.cs" />
+    <Compile Include="Object\ObjectMSSQL\INSPECTION_METHOD.cs" />
+    <Compile Include="Object\ObjectMSSQL\INSPECTION_PLAN.cs" />
+    <Compile Include="Object\ObjectMSSQL\ITEM_LIST_CONFIG.cs" />
+    <Compile Include="Object\ObjectMSSQL\MANUFACTURER.cs" />
+    <Compile Include="Object\ObjectMSSQL\NO_INSPECTION.cs" />
+    <Compile Include="Object\ObjectMSSQL\POINTS.cs" />
+    <Compile Include="Object\ObjectMSSQL\REPORT_TEMPLATE.cs" />
+    <Compile Include="Object\ObjectMSSQL\REPORT_TEMPLATE_ASSESSMENT.cs" />
+    <Compile Include="Object\ObjectMSSQL\REPORT_TEMPLATE_COMPONENT_DEFAULT.cs" />
+    <Compile Include="Object\ObjectMSSQL\REPORT_TEMPLATE_EQUIPMENT.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_ASSESSMENT.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_CA_TANK.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_CF_MASTER.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_COATING.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_COMPONENT.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_CORROSION_RATE_TANK.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_DAMAGE_MECHANISM.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_EQUIPMENT.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_EXTCOR_TEMPERATURE.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_EXTRA_FIELDS.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_FULL_COF.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_FULL_COF_FLUID.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_FULL_COF_HOLE_SIZE.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_FULL_COF_INPUT.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_FULL_COF_TANK.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_FULL_FCOF.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_FULL_FINALCOF.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_FULL_POF.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_INPUT_CA_LEVEL_1.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_INPUT_CA_TANK.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_INSPECTION_DETAIL.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_LF_DETAIL.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_LF_MASTER.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_MATERIAL.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_POINTS.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_PRIMARY_FLUID.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_REVISION_INSPECTION.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_RISK_GRAPH.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_RISK_TARGET.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_SAFETY_FACTOR.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_SECONDARY_FLUID.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_SETTINGS.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_STREAM.cs" />
+    <Compile Include="Object\ObjectMSSQL\RW_THICKNESS.cs" />
+    <Compile Include="Object\ObjectMSSQL\SAFETY_FACTORS.cs" />
+    <Compile Include="Object\ObjectMSSQL\SITES.cs" />
+    <Compile Include="Object\ObjectMSSQL\THICKNESS_READING.cs" />
+    <Compile Include="Object\ObjectMSSQL\UNITS.cs" />
+    <Compile Include="Object\ObjectMSSQL\UNIT_DESCRIPTOR.cs" />
+    <Compile Include="Object\ObjectMSSQL\USERS.cs" />
+    <Compile Include="Object\ObjectMSSQL\USER_GROUPS.cs" />
+    <Compile Include="Object\ObjectMSSQL\USER_PERMISSIONS.cs" />
+    <Compile Include="Object\ObjectMSSQL\USER_PERMISSION_LIST.cs" />
+    <Compile Include="Object\Equipment.cs" />
+    <Compile Include="Object\EquipmentForRbi.cs" />
+    <Compile Include="Object\EquipmentTemp.cs" />
+    <Compile Include="Object\FullPlantObject.cs" />
+    <Compile Include="Object\InspectionPlant.cs" />
+    <Compile Include="Object\ObjectMSSQL_CAL\ConversionFactorsForCOF.cs" />
+    <Compile Include="Object\ObjectMSSQL_CAL\TOXIC_511_512.cs" />
+    <Compile Include="Object\ObjectMSSQL_CAL\TOXIC_513.cs" />
+    <Compile Include="Object\paramaterDF.cs" />
+    <Compile Include="Object\ProcessPlant.cs" />
+    <Compile Include="Object\RiskSummary.cs" />
+    <Compile Include="Object\ucTabNormal.cs" />
+    <Compile Include="Object\ucTabTank.cs" />
+    <Compile Include="PRE\ITEM\jtree.cs" />
+    <Compile Include="PRE\subForm\frmModelFluid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\frmModelFluid.Designer.cs">
+      <DependentUpon>frmModelFluid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmCreateInspectionPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmCreateInspectionPlan.Designer.cs">
+      <DependentUpon>frmCreateInspectionPlan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmInspectionFinding.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmInspectionFinding.Designer.cs">
+      <DependentUpon>frmInspectionFinding.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmInspectionPlanDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmInspectionPlanDetail.Designer.cs">
+      <DependentUpon>frmInspectionPlanDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmInspectionSummary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmInspectionSummary.Designer.cs">
+      <DependentUpon>frmInspectionSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmManageFactor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmManageFactor.Designer.cs">
+      <DependentUpon>frmManageFactor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmReport.Designer.cs">
+      <DependentUpon>frmReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmSearchInspectionPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmSearchInspectionPlan.Designer.cs">
+      <DependentUpon>frmSearchInspectionPlan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmTankModelFluid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmTankModelFluid.Designer.cs">
+      <DependentUpon>frmTankModelFluid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmToxicFluid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmToxicFluid.Designer.cs">
+      <DependentUpon>frmToxicFluid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmUnits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmUnits.Designer.cs">
+      <DependentUpon>frmUnits.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\CorrosionRateTank.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\CorrosionRateTank.Designer.cs">
+      <DependentUpon>CorrosionRateTank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\frm_backup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\frm_backup.Designer.cs">
+      <DependentUpon>frm_backup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\frm_restored.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\frm_restored.Designer.cs">
+      <DependentUpon>frm_restored.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmImportExcelTank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmImportExcelTank.Designer.cs">
+      <DependentUpon>frmImportExcelTank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmImportExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmImportExcel.Designer.cs">
+      <DependentUpon>frmImportExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmDesignCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmDesignCode.Designer.cs">
+      <DependentUpon>frmDesignCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmEquipment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmEquipment.Designer.cs">
+      <DependentUpon>frmEquipment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmFacility.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmFacility.Designer.cs">
+      <DependentUpon>frmFacility.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmFacilityInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmFacilityInput.Designer.cs">
+      <DependentUpon>frmFacilityInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmGenericFluids.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmGenericFluids.Designer.cs">
+      <DependentUpon>frmGenericFluids.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmImportInspection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmImportInspection.Designer.cs">
+      <DependentUpon>frmImportInspection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmNewFluid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmNewFluid.Designer.cs">
+      <DependentUpon>frmNewFluid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmNewManufacturer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmNewManufacturer.Designer.cs">
+      <DependentUpon>frmNewManufacturer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmNewComponent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmNewComponent.Designer.cs">
+      <DependentUpon>frmNewComponent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmNewMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmNewMaterial.Designer.cs">
+      <DependentUpon>frmNewMaterial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmNewSite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\frmNewSite.Designer.cs">
+      <DependentUpon>frmNewSite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\UCAssessmentInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\UCAssessmentInfo.Designer.cs">
+      <DependentUpon>UCAssessmentInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\UCCA.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\UCCA.Designer.cs">
+      <DependentUpon>UCCA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\UCCoatLiningIsulationCladding.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\UCCoatLiningIsulationCladding.Designer.cs">
+      <DependentUpon>UCCoatLiningIsulationCladding.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\UCComponentPropertiesTank.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\UCComponentPropertiesTank.Designer.cs">
+      <DependentUpon>UCComponentPropertiesTank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\UCComponentProperties.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\UCComponentProperties.Designer.cs">
+      <DependentUpon>UCComponentProperties.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\UCMaterialTank.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\UCMaterialTank.Designer.cs">
+      <DependentUpon>UCMaterialTank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\frmDamageFactor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\frmDamageFactor.Designer.cs">
+      <DependentUpon>frmDamageFactor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UCAmineStressCorrosionCracking.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UCAmineStressCorrosionCracking.Designer.cs">
+      <DependentUpon>UCAmineStressCorrosionCracking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UCBrittleFracture.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UCBrittleFracture.Designer.cs">
+      <DependentUpon>UCBrittleFracture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UCCarbonateCracking.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UCCarbonateCracking.Designer.cs">
+      <DependentUpon>UCCarbonateCracking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UCCausticCracking.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UCCausticCracking.Designer.cs">
+      <DependentUpon>UCCausticCracking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UCChlorideCracking.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UCChlorideCracking.Designer.cs">
+      <DependentUpon>UCChlorideCracking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UCExternalCLSCC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UCExternalCLSCC.Designer.cs">
+      <DependentUpon>UCExternalCLSCC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UCExternalCorrosion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UCExternalCorrosion.Designer.cs">
+      <DependentUpon>UCExternalCorrosion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UCExternalCUI_CLSCC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UCExternalCUI_CLSCC.Designer.cs">
+      <DependentUpon>UCExternalCUI_CLSCC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UCHydrogenStressCracking%28HSC-HF%29.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UCHydrogenStressCracking%28HSC-HF%29.Designer.cs">
+      <DependentUpon>UCHydrogenStressCracking%28HSC-HF%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UCInternalLiningDegradation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UCInternalLiningDegradation.Designer.cs">
+      <DependentUpon>UCInternalLiningDegradation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UCInternalThinning.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UCInternalThinning.Designer.cs">
+      <DependentUpon>UCInternalThinning.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UCPolythionicAcidCracking.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UCPolythionicAcidCracking.Designer.cs">
+      <DependentUpon>UCPolythionicAcidCracking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UCSulphideStressCracking.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UCSulphideStressCracking.Designer.cs">
+      <DependentUpon>UCSulphideStressCracking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UCVibration_Induced_Mechanical_Fatigue.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UCVibration_Induced_Mechanical_Fatigue.Designer.cs">
+      <DependentUpon>UCVibration_Induced_Mechanical_Fatigue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UC_HF_Produced_HIC_SOHIC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UC_HF_Produced_HIC_SOHIC.Designer.cs">
+      <DependentUpon>UC_HF_Produced_HIC_SOHIC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UC_HIC_SOHIC_H2S.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\OutputPOF\UC_HIC_SOHIC_H2S.Designer.cs">
+      <DependentUpon>UC_HIC_SOHIC_H2S.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\UCCorrosionRateTank.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\UCCorrosionRateTank.Designer.cs">
+      <DependentUpon>UCCorrosionRateTank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\UCInspectionHistory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\UCInspectionHistory.Designer.cs">
+      <DependentUpon>UCInspectionHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\UCInspectionHistorySubform.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\UCInspectionHistorySubform.Designer.cs">
+      <DependentUpon>UCInspectionHistorySubform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\UCDamageMechanism.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\UCDamageMechanism.Designer.cs">
+      <DependentUpon>UCDamageMechanism.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\UCEquipmentPropertiesTank.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\UCEquipmentPropertiesTank.Designer.cs">
+      <DependentUpon>UCEquipmentPropertiesTank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\UCEquipmentProperties.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\UCEquipmentProperties.Designer.cs">
+      <DependentUpon>UCEquipmentProperties.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\UCMaterial.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\UCMaterial.Designer.cs">
+      <DependentUpon>UCMaterial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\UCNoInspection.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\UCNoInspection.Designer.cs">
+      <DependentUpon>UCNoInspection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\UCOperatingCondition.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\UCOperatingCondition.Designer.cs">
+      <DependentUpon>UCOperatingCondition.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\UCStreamTank.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\UCStreamTank.Designer.cs">
+      <DependentUpon>UCStreamTank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\UCStream.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\InputDataForm\UCStream.Designer.cs">
+      <DependentUpon>UCStream.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\UCRisk.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\UCRisk.Designer.cs">
+      <DependentUpon>UCRisk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\UCRiskFactor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\UCRiskFactor.Designer.cs">
+      <DependentUpon>UCRiskFactor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\UCRiskSummary.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\UCRiskSummary.Designer.cs">
+      <DependentUpon>UCRiskSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\WaitForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\subForm\OutputDataForm\WaitForm2.Designer.cs">
+      <DependentUpon>WaitForm2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resource1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
+    <Compile Include="RibbonForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RibbonForm1.Designer.cs">
+      <DependentUpon>RibbonForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="test.Designer.cs">
+      <DependentUpon>test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestData.cs" />
+    <Compile Include="WaitForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WaitForm1.Designer.cs">
+      <DependentUpon>WaitForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XtraUserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="XtraUserControl1.Designer.cs">
+      <DependentUpon>XtraUserControl1.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="PRE\subForm\frmModelFluid.resx">
+      <DependentUpon>frmModelFluid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\frmCreateInspectionPlan.resx">
+      <DependentUpon>frmCreateInspectionPlan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\frmInspectionFinding.resx">
+      <DependentUpon>frmInspectionFinding.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\frmInspectionPlanDetail.resx">
+      <DependentUpon>frmInspectionPlanDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\frmInspectionSummary.resx">
+      <DependentUpon>frmInspectionSummary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\frmManageFactor.resx">
+      <DependentUpon>frmManageFactor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\frmReport.resx">
+      <DependentUpon>frmReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\frmSearchInspectionPlan.resx">
+      <DependentUpon>frmSearchInspectionPlan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\frmTankModelFluid.resx">
+      <DependentUpon>frmTankModelFluid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\frmToxicFluid.resx">
+      <DependentUpon>frmToxicFluid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\frmUnits.resx">
+      <DependentUpon>frmUnits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\OutputDataForm\CorrosionRateTank.resx">
+      <DependentUpon>CorrosionRateTank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\OutputDataForm\frm_backup.resx">
+      <DependentUpon>frm_backup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\OutputDataForm\frm_restored.resx">
+      <DependentUpon>frm_restored.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\frmImportExcelTank.resx">
+      <DependentUpon>frmImportExcelTank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\frmImportExcel.resx">
+      <DependentUpon>frmImportExcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\frmDesignCode.resx">
+      <DependentUpon>frmDesignCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\frmEquipment.resx">
+      <DependentUpon>frmEquipment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\frmFacility.resx">
+      <DependentUpon>frmFacility.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\frmFacilityInput.resx">
+      <DependentUpon>frmFacilityInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\frmGenericFluids.resx">
+      <DependentUpon>frmGenericFluids.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\frmImportInspection.resx">
+      <DependentUpon>frmImportInspection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\frmNewComponent.resx">
+      <DependentUpon>frmNewComponent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\frmNewFluid.resx">
+      <DependentUpon>frmNewFluid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\frmNewManufacturer.resx">
+      <DependentUpon>frmNewManufacturer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\frmNewMaterial.resx">
+      <DependentUpon>frmNewMaterial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\frmNewSite.resx">
+      <DependentUpon>frmNewSite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\UCAssessmentInfo.resx">
+      <DependentUpon>UCAssessmentInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\UCCA.resx">
+      <DependentUpon>UCCA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\UCCoatLiningIsulationCladding.resx">
+      <DependentUpon>UCCoatLiningIsulationCladding.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\UCComponentPropertiesTank.resx">
+      <DependentUpon>UCComponentPropertiesTank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\UCComponentProperties.resx">
+      <DependentUpon>UCComponentProperties.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\UCMaterialTank.resx">
+      <DependentUpon>UCMaterialTank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\OutputDataForm\OutputPOF\frmDamageFactor.resx">
+      <DependentUpon>frmDamageFactor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\OutputDataForm\OutputPOF\UCAmineStressCorrosionCracking.resx">
+      <DependentUpon>UCAmineStressCorrosionCracking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\OutputDataForm\OutputPOF\UCBrittleFracture.resx">
+      <DependentUpon>UCBrittleFracture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\OutputDataForm\OutputPOF\UCCarbonateCracking.resx">
+      <DependentUpon>UCCarbonateCracking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\OutputDataForm\OutputPOF\UCCausticCracking.resx">
+      <DependentUpon>UCCausticCracking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\OutputDataForm\OutputPOF\UCChlorideCracking.resx">
+      <DependentUpon>UCChlorideCracking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\OutputDataForm\OutputPOF\UCExternalCLSCC.resx">
+      <DependentUpon>UCExternalCLSCC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\OutputDataForm\OutputPOF\UCExternalCorrosion.resx">
+      <DependentUpon>UCExternalCorrosion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\OutputDataForm\OutputPOF\UCExternalCUI_CLSCC.resx">
+      <DependentUpon>UCExternalCUI_CLSCC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\OutputDataForm\OutputPOF\UCHydrogenStressCracking%28HSC-HF%29.resx">
+      <DependentUpon>UCHydrogenStressCracking%28HSC-HF%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\OutputDataForm\OutputPOF\UCInternalLiningDegradation.resx">
+      <DependentUpon>UCInternalLiningDegradation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\OutputDataForm\OutputPOF\UCInternalThinning.resx">
+      <DependentUpon>UCInternalThinning.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\OutputDataForm\OutputPOF\UCPolythionicAcidCracking.resx">
+      <DependentUpon>UCPolythionicAcidCracking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\OutputDataForm\OutputPOF\UCSulphideStressCracking.resx">
+      <DependentUpon>UCSulphideStressCracking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\OutputDataForm\OutputPOF\UCVibration_Induced_Mechanical_Fatigue.resx">
+      <DependentUpon>UCVibration_Induced_Mechanical_Fatigue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\OutputDataForm\OutputPOF\UC_HF_Produced_HIC_SOHIC.resx">
+      <DependentUpon>UC_HF_Produced_HIC_SOHIC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\OutputDataForm\OutputPOF\UC_HIC_SOHIC_H2S.resx">
+      <DependentUpon>UC_HIC_SOHIC_H2S.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\OutputDataForm\UCCorrosionRateTank.resx">
+      <DependentUpon>UCCorrosionRateTank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\OutputDataForm\UCDamageMechanism.resx">
+      <DependentUpon>UCDamageMechanism.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\UCEquipmentPropertiesTank.resx">
+      <DependentUpon>UCEquipmentPropertiesTank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\UCEquipmentProperties.resx">
+      <DependentUpon>UCEquipmentProperties.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\UCMaterial.resx">
+      <DependentUpon>UCMaterial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\UCNoInspection.resx">
+      <DependentUpon>UCNoInspection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\UCOperatingCondition.resx">
+      <DependentUpon>UCOperatingCondition.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\UCStreamTank.resx">
+      <DependentUpon>UCStreamTank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\InputDataForm\UCStream.resx">
+      <DependentUpon>UCStream.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\OutputDataForm\UCInspectionHistory.resx">
+      <DependentUpon>UCInspectionHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\OutputDataForm\UCInspectionHistorySubform.resx">
+      <DependentUpon>UCInspectionHistorySubform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\OutputDataForm\UCRisk.resx">
+      <DependentUpon>UCRisk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\OutputDataForm\UCRiskFactor.resx">
+      <DependentUpon>UCRiskFactor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\OutputDataForm\UCRiskSummary.resx">
+      <DependentUpon>UCRiskSummary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\subForm\OutputDataForm\WaitForm2.resx">
+      <DependentUpon>WaitForm2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resource1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RibbonForm1.resx">
+      <DependentUpon>RibbonForm1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="test.resx">
+      <DependentUpon>test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WaitForm1.resx">
+      <DependentUpon>WaitForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XtraUserControl1.resx">
+      <DependentUpon>XtraUserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="RBI_TemporaryKey.pfx" />
+    <None Include="RibbonForm1.resx.bak" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\if_89_Import_Down_Download_Save_1864210.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\if_close_476323.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\childrenFile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\contact us.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\ContactUS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\document-yellow-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\Equipment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\Exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\factory.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\Files-New-File-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\if_Cancel_728918.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\if_close_476323.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\if_Finance_finance_calculator_1889192.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\Import.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\import1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\importPlan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\lockedFile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\pipeline29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\privateFile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\Product-sale-report-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\publicFile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\Save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\Save1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\Setting-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\support.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="PRE\ICON\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\risk summary point\Circle-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\risk summary point\Square-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\risk summary point\Triangle-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SqlServer.Express.11.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2012 Express</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icons-Land-Points-Of-Interest-Factory-Yellow.ico" />
+    <None Include="ICON\risk summary point\Triangle2-icon.png" />
+    <None Include="ICON\risk summary point\lup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="rbi.mdf">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="rbi_log.ldf">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,76 @@
+	16/7/2019
+-RW_PRD_X: them moi 											(chua lam)
+
+
+
+
+
+15/7/2019
+-RW_COATING: them truong CladdingThickness   								(da them vao DAL, BUS, Object)
+-RW_CF_MASTER: giong bang riskwise5
+-RW_CA_LEVEL1, RW_CA_TANK: xoa										(chua lam)
+-RW_ASSESSMENT: xoa truong ProposalName, AddByExcel
+		xoa 1 so ham lien quan den cac truong da xoa
+-REPORT_TEMPLATE_EQUIPMENT: giong bang riskwise 5
+-REPORT_TEMPLATE_COMPONENT_ DEFAULT: giong bang riskwise 5
+-REPORT_TEMPLATE_ASSESSMENT: giong bang riskwise 5
+-REPORT_TEMPLATE: giong bang riskwise 5
+
+
+
+
+
+11/7/2019
+-RW_STREAM: them truong Liquid Level 									(da them vao DAL, BUS, Object) 
+-RW_SETTINGS: giong bang riskwise 5
+-RW_SECONDARY_FLUID: giong bang riskwise 5
+-RW_SAFETY_FACTOR: giong bang riskwise 5
+-RW_RISK_TARGET: giong bang riskwise 5
+-RW_RISK_GRAPH: xoa 											(chua lam)
+-RW_REVISION_INSPECTION: giong bang riskwise 5
+-RW_PRIMARY_FLUID: giong bang riskwise 5
+-RW_PRD_X: them moi 											(chua lam)
+-RW_POINTS: giong bang riskwise 5
+-RW_MATERIAL: 	them truong SteelProductForm, YeildStrength, TensileStrength 				(thao dang lam)
+		xoa truong AllowableStress 
+-RW_LF_MASTER: giong bang riskwise 5
+-RW_LF_DETAIL: giong bang riskwise 5
+-RW_INSPECTION_HISTORY: xoa 										(chua lam)
+-RW_INSPECTION_DETAIL: them moi 									(chua lam)
+-RW_INPUT_CA_LEVEL1, RW_INPUT_CA_TANK: xoa 								(chua lam)	
+-RW_FULL_POF: giong bang riskwise 5
+-RW_FULL_FCOF: them truong EquipOutageMultiplier 							(da them vao DAL, BUS, Object)
+-RW_FULL_COF_TANK: them truong EquipOutageMultiplier, equipcost, popdens,injcost 			(da them vao DAL, BUS, Object)
+-RW_FULL_COF_INPUT: giong bang riskwise 5
+-RW_FULL_COF_HOLE_SIZE: giong bang riskwise 5
+-RW_FULL_COF_FLUID: giong bang riskwise 5
+-RW_FULL_COF: giong bang riskwise 5
+-RW_EXTRA_FIELDS: giong bang riskwise 5
+-RW_EXTCOR_TEMPERATURE: giong bang riskwise 5
+-RW_EQIPMENT: giong bang riskwise 5
+-RW_DAMAGE_MECHANISM: giong bang riskwise 5
+-RW_CORROSION_RATE_TANK: giong bang riskwise 5
+-RW_COMPONENT: 	doi vi tri truong SeverityOfVibration 							(da them vao DAL, BUS, Object)
+		xoa truong TrampElements
+		them truong AllowalbeStress, WeldJointEfficiency, ComponentVolume, 
+			ConfidenceCorrosionRate, MinimumStructuralThicknessGoverns,
+			StructuralThickness, CracksCurrentCondition, FabricatedSteel,
+			EquipmentSatisfied, NominalOperatingConditions, CETGreaterOrEqual,
+			CyclicServiceFatigueVibration, EquipmentCircuitShock, 
+			HTHADamageObserved, BrittleFractureThickness.
+			
+
+(CrackCurrentCondition ko thay trong form)
+
+10/7/2019
+-USERS: giong table riskwise5
+-USER_PERMISSiON: giong table riskwise5
+-USER_PERMISSION_LIST: giong table riskwise5
+-USER_GROUPS: co doi tuong nhung chua dc luu tru
+-UNITS: giong table riskwise 5
+-UNIT_DESCRIPTORS: giong table riskwise5
+-THICKNESS_READING: giong table riskwise5
+-SITES: giong bang riskwise 5
+-SAFETY_FACTORS: giong bang riskwise 5
+-TBL_x: xoa    												(chua lam)
+-RW_THICKNESS: giong bang riskwise 5

@@ -1,0 +1,5 @@
+operating Hydrogen Partial Pressure ko cho nhap so am
+min requite temperature ko dc nhap so <-46--> neu nhap ko xem dc damage mechanism
+muốn hiện thông tin tab Financial COF thì: phải nhập material Cost Factor trong uC Material?(chưa chốt)
+cach luu thiết bị tank bottom và tank shell (compornent type id) trong csdl compornentmaster;
+-> cần cập nhập thêm Fixed Roof

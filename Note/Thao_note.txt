@@ -1,0 +1,80 @@
+﻿					PHASE1:
+Material(Normal): Allowable Stress,Brittle Fracture,Heatracement đang có trong UCMaterial nhưng chưa biết để vào form nào.
+		  Allowable Stress Riskwise 6 không lưu trong RW_Material nữa
+		  Đã thêm Yield Strength và Tensile Strength
+					PHASE2: Sua database
+APIComponentType: Table có thêm AliasAPIComponentType
+COF_FLUID: table moi trong database riskwise6
+COMPONENT_DETAIL: Giong table database riskwise5
+COMPONENT_MASTER: Giong table database riskwise5
+COMPONENT_MODELING: Giong database riskwise5
+COMPONENT_TYPE: Table có thêm Shape, ShapeFactor
+DESIGN_CODE: Giong table database riskwise5
+DM_CATEGORY: Giong table database riskwise5
+DM_EXPECTED_TYPE: Giong table database riskwise5
+DM_ITEMS: Table co them HasRule
+EQUIPMENT_EXTRA_FIELDS: Giong table database riskwise5
+EQUIPMENT_MASTER: Giong table database riskwise5
+EQUIPMENT_REVISION: Giong table database riskwise5
+EQUiPMENT_REVISION_INSPECTION: Doi CoverageID thanh EquipmentID
+EQUiPMENT_REVISION_INSPECTION_COVERAGE: Doi CoverageID thanh EquipmentID
+EQUIPMENT_TYPE: Giong table database riskwise5
+EXTRA_FIELDS_LOOKUP: Giong table database riskwise5
+EXTRA_FIELDS_LOOKUP: Giong table database riskwise5
+EXTRA_FIELDS_SETTING: Giong table database riskwise5
+EXTRA_FIELDS_SETTING_COMPONENT: Giong table database riskwise5
+FACILITY: Giong table database riskwise5
+FACILITY_RISK_TARGET: Giong table database riskwise5
+FILE_COMPONENT: Giong table database riskwise5
+FILE_EQUIPMENT: Giong table database riskwise5
+FILE_FACILITY: Giong table databases riskwise5
+GENERIC_FLUID: Them ExamplesOfApplicable,FluidType,AmbientState,AutoIgnitionTemperature so voi riskwise5
+GENERIC_MATERIAL: Them YieldStrength, TensileStrength so voi riskwise5
+IM_ITEMS: Giong table database riskwise5
+IM_TYPE: Giong table database riskwise5
+IMAGE_COMPONENT: Giong database riskwise5
+IMAGE_EQUIPMENT: Giong database riskwise5
+IMAGE_FACILITY: Giong database riskwise5
+INSPECTION_COVERAGE: Doi CoverageID,CoverageName,CoverageDate thanh ID,EquipmentID, ComponentID
+INSPECTION_COVERAGE_DETAIL: Doi CoverageDetailID thanh ID, bo ComponentID,IMTypeID so voi riskwise5, them InspectionSummary
+INSPECTION_COVERAGE_EQUIPMENT: Da bi loai bo o database riskwise6
+INSPECTION_DETAIL_TECHNIQUE: table moi trong database riskwise6
+INSPECTION_DM_RULE: table moi trong database riskwise6
+INSPECTION_PLAN: bo Remarks trong riskwise6
+ITEM_LIST_CONFIG: Giong table database riskwise5
+MANUFACTURER: Giong table database riskwise5
+POINTS: Giong table database riskwise5
+PRD_?: table moi trong database riskwise6
+REPORT_TEMPLATE_?: Giong table database riskwise5
+				PHASE3: Them moi nhung database con thieu
+COF_FLUID: la table 4.1 & 4.2 pg 39 Part3 
+INSPECTION_DETAIL_TECHNIQUE: Da them 
+Nhan xet:
+INSPECTION_DM_RULE: la table tinh toan trong API 581 them sau trong CAL
+PRD_DF_CLASSES: la table 7.10 pg 73 Part1
+PRD_DISCHARGE_LOCATION: la RecoveryFactor cong thuc 7.5.4 pg 55 Part1 va WeibullAdjustmentFactor cong thuc .. 	
+PRD_INSPECTION_EFFECTIVENESS,PRD_INSPECTION_RESULT,PRD_INSPECTION_CONFIDENCE: la table 7.8 pg 72 Part1
+PRD_OVERPRESSURE_DEMAND: la table 7.2 pg 64 Part1
+PRD_SERVICE_SEVERITY, PRD_TYPE, PRD_WEIBULL_PARAMETER: la table 7.5 pg 71 Part1
+RW_INSPECTION_DETAIL Fix ok
+phase3: Kiem tra xem cac dau vao uc da nhap dc vao base chưa?
+UCAssessment ok
+UC ComponentProperties , UC ComponentPropertiesTank : ok
+that ra Minium Measured Thickness chinh la CurrentThickness
+UC Equipment ok
+UC Equipment tank ok
+UC Matarial da xoa
+UC Stream cung ok
+				PHASE4: Sua Chuc Nang Doi Don Vi
+Fix bug: Truoc bi loi do khong dong bo data voi database ( Trong database la: MIL con trong code lai la mil)
+UC Material
+UC MaterialTank
+UC CoatingLining
+UC ComponentTank
+UC Component
+UC Equipment ko can sua
+UC Operating
+Done
+				PHASE5: Cong thuc Thinning
+MPA la don vi tinh stress theo riskwise6
+

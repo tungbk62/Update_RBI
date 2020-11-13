@@ -1,0 +1,23 @@
+"Internal Thinning", done
+ "Internal Lining Degradation", done
+ "Caustic Stress Corrosion Cracking",  done                              
+"Amine Stress Corrosion Cracking",  done
+"Sulphide Stress Corrosion Cracking (H2S)", done
+"HIC/SOHIC-H2S", //  done
+"Polythionic Acid Stress Corrosion Cracking",    done                         
+"Hydrogen Stress Cracking (HF)", // done HSC-HF Damage Factor
+"HF Produced HIC/SOHIC",  // done
+"External Corrosion", done
+"Brittle Fracture", done
+"Vibration-Induced Mechanical Fatigue" done 
+"External Chloride Stress Corrosion Cracking",      done 
+ "Chloride Stress Corrosion Cracking Under Insulation",  done
+"Carbonate Stress Corrosion Cracking", done
+"Chloride Stress Corrosion Cracking", done
+
+chưa có
+"Temper Embrittlement", 
+"885F Embrittlement", 
+ "Sigma Phase Embrittlement",                        
+"Corrosion Under Insulation",
+"High Temperature Hydrogen Attack",

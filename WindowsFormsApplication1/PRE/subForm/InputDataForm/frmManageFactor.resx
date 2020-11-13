@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="checkleader_8.Text" xml:space="preserve">
+    <value>Are annual objectives in the area of process safety and health issues established for all management personnel, 
+and are they then included as an important consideration in their regular annual appraisals?</value>
+  </data>
+  <data name="checksafety_20.Text" xml:space="preserve">
+    <value>Is a documented compilation of all the above Process Safety Information maintained at the facility as a reference? 
+The individual elements of the Information may exist in various forms and locations,
+ but the compilation should confirm the existence and location of each element.</value>
+  </data>
+  <data name="checksafety_19.Text" xml:space="preserve">
+    <value>Are procedures in place to ensure that each individual with responsibility for managing the process has a working knowledge of the process 
+safety information appropriate to his or her responsibilities?</value>
+  </data>
+  <data name="checkBox21.Text" xml:space="preserve">
+    <value>Is a formal system in place to promptly address the findings and recommendations of a Process Hazard Analysis to ensure 
+that the recommendations are resolved in a timely manner and that the resolution is documented?
+</value>
+  </data>
+  <data name="checkBox26.Text" xml:space="preserve">
+    <value>Based on the most recent PHAs conducted, are the average rates of analysis appropriate for the complexity of the systems being analyzed?
+ (Typically, 2–4 P&amp;IDs of average complexity will be analyzed per day.)</value>
+  </data>
+  <data name="checkBox45.Text" xml:space="preserve">
+    <value>When the equipment or materials of construction are changed through replacement or maintenance items, is there a system in place to 
+formally review any metallurgical change to ensure that the new material is suitable for the process?</value>
+  </data>
+  <data name="checkBox44.Text" xml:space="preserve">
+    <value>When changes are made in the process or operating procedures, are there written procedures requiring that the impact of these changes 
+on the equipment and materials of construction be reviewed to determine whether they will cause any 
+increased rate of damage or failure, or will result in different failure mechanisms in the process equipment?</value>
+  </data>
+  <data name="label12.Text" xml:space="preserve">
+    <value>How often is an independent evaluation made (e.g., by Safety Department or similar group), 
+with results communicated to appropriate management, to determine the extent of compliance 
+with requirements for work permits and specialized procedures for major units within the organization? (Choose one)</value>
+  </data>
+  <data name="checkBox96.Text" xml:space="preserve">
+    <value>Is there a written procedure that defines the amount and content of site-specific training,
+ in addition to the general training provided in Question 1, 
+that an employee newly assigned to an operations position will receive prior to</value>
+  </data>
+  <data name="checkBox114.Text" xml:space="preserve">
+    <value>Has a systematic approach (e.g., employee surveys, task analysis, etc.) been used to identify the training needs of all employees at the facility, 
+including the training programs referred to in Questions 1 and 2?</value>
+  </data>
+  <data name="checkBox129.Text" xml:space="preserve">
+    <value>c. Based on this inspection plan, do all on-site piping systems that handle volatile, flammable products, toxins, acids and caustics, 
+and other similar materials receive a visual external inspection at least every 5 years?</value>
+  </data>
+  <data name="checkBox127.Text" xml:space="preserve">
+    <value>a. Are all the following factors considered in the visual inspection program: the condition of the outside of equipment, 
+insulation, painting/coatings, supports and attachments, and identifying mechanical damage, corrosion, vibration, 
+leakage or improper components or repairs?</value>
+  </data>
+  <data name="checkBox153.Text" xml:space="preserve">
+    <value>Have all employees involved in maintaining and inspecting the process equipment been trained in all procedures applicable 
+to their job tasks to ensure that they can perform the job tasks in a safe and effective manner?</value>
+  </data>
+  <data name="checkBox147.Text" xml:space="preserve">
+    <value>Is there a written procedure requiring that all process equipment deficiencies identified during an inspection be corrected in a safe and timely manner 
+and are they tracked and followed up to assure completion?</value>
+  </data>
+  <data name="checkBox146.Text" xml:space="preserve">
+    <value>Does the documentation include all of the following information: 
+a. The date of the inspection
+b. The name of the person who performed the inspection
+c. Identification of the equipment inspected
+d. A description of the inspection or testing
+e. The results of the inspection
+f. All recommendations resulting from the inspection
+g. A date and description of all maintenance performed</value>
+  </data>
+  <data name="checkBox171.Text" xml:space="preserve">
+    <value>Are systems in place, such as written requirements, with supervisor sign off, sufficient to ensure that all design 
+repair and alteration done on any pressure vessel or piping system be done in accordance with the code to which
+ the item was built, or in-service repair and inspection code?</value>
+  </data>
+  <data name="checkBox170.Text" xml:space="preserve">
+    <value>Is there a permanent and progressive record for all pressure vessels that includes all of the following?
+a. Manufacturers’ data reports and other pertinent data records
+b. Vessel identification numbers
+c. Relief valve information
+d. Results of all inspections, repairs, alterations, or re-ratings that have occurred to date</value>
+  </data>
+  <data name="checkBox174.Text" xml:space="preserve">
+    <value>Is there a written procedure requiring that all equipment be inspected prior to startup to confirm that it has been installed in accordance 
+with the design specifications and manufacturer’s recommendations?</value>
+  </data>
+  <data name="checkBox173.Text" xml:space="preserve">
+    <value>Is there a written procedure requiring that all of the following items have been accomplished before the startup of new or significantly modified facilities? 
+a. Written operating procedures have been issued.
+b. Training has been completed for all personnel involved in the process.
+c. Adequate maintenance, inspection, safety and emergency procedures are in place.
+d. Any recommendations resulting from the formal PHA have been completed</value>
+  </data>
+  <data name="checkBox217.Text" xml:space="preserve">
+    <value>If the incident/accident involved a failure of a component or piece of equipment, are appropriate inspection or engineering 
+people required to be involved in a failure analysis to identify the conditions or practices that caused the failure?</value>
+  </data>
+  <data name="checkBox229.Text" xml:space="preserve">
+    <value>Are periodic assessments performed to ensure that the contract employer is providing to his or her employees the training, instruction, monitoring, 
+etc., required to ensure the contract employees abide by all facility safe-work practices?</value>
+  </data>
+</root>

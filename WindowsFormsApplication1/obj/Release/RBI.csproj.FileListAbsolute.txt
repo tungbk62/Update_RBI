@@ -1,0 +1,1032 @@
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.BonusSkins.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Charts.v18.1.Core.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Data.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.DataAccess.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.DataAccess.v18.1.UI.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Docs.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Images.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Mvvm.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Office.v18.1.Core.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.RichEdit.v18.1.Export.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Snap.v18.1.Core.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Snap.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Snap.v18.1.Extensions.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.SpellChecker.v18.1.Core.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Spreadsheet.v18.1.Core.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Utils.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Utils.v18.1.UI.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Xpo.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraBars.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraCharts.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraCharts.v18.1.UI.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraCharts.v18.1.Wizard.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraEditors.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraGrid.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraLayout.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraNavBar.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraPrinting.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraRichEdit.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraRichEdit.v18.1.Extensions.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraSpellChecker.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraSpreadsheet.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraTreeList.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.CodeParser.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Diagram.v18.1.Core.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraDiagram.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Pdf.v18.1.Drawing.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraVerticalGrid.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Data.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.DataAccess.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.DataAccess.v18.1.UI.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Docs.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Mvvm.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Office.v18.1.Core.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Snap.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Snap.v18.1.Core.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Snap.v18.1.Extensions.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.SpellChecker.v18.1.Core.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Spreadsheet.v18.1.Core.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Utils.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Utils.v18.1.UI.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Xpo.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraBars.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraCharts.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraCharts.v18.1.UI.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraCharts.v18.1.Wizard.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraEditors.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraGrid.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraLayout.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraNavBar.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraPrinting.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraRichEdit.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraRichEdit.v18.1.Extensions.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraSpellChecker.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraSpreadsheet.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraTreeList.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Diagram.v18.1.Core.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraDiagram.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Pdf.v18.1.Drawing.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraVerticalGrid.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.Snap.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.Snap.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.Snap.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.Snap.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.Snap.v18.1.Extensions.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.Snap.v18.1.Extensions.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.Snap.v18.1.Extensions.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.Snap.v18.1.Extensions.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraRichEdit.v18.1.Extensions.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraRichEdit.v18.1.Extensions.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraRichEdit.v18.1.Extensions.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraRichEdit.v18.1.Extensions.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraSpellChecker.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraSpellChecker.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraSpellChecker.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraSpellChecker.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraSpreadsheet.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraSpreadsheet.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraSpreadsheet.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraSpreadsheet.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.csprojResolveAssemblyReference.cache
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.frmModelFluid.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmCreateInspectionPlan.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmInspectionFinding.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmInspectionPlanDetail.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmInspectionSummary.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmReport.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmSearchInspectionPlan.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmTankModelFluid.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmToxicFluid.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmUnits.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.CorrosionRateTank.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.frm_backup.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.frm_restored.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmImportExcelTank.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmImportExcel.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmDesignCode.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmEquipment.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmFacility.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmFacilityInput.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmGenericFluids.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmImportInspection.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmNewComponent.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmNewFluid.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmNewManufacturer.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmNewMaterial.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmNewSite.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCAssessmentInfo.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCCA.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCCoatLiningIsulationCladding.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCComponentPropertiesTank.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCComponentProperties.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCMaterialTank.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.UCCorrosionRateTank.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCDamageMechanism.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCEquipmentPropertiesTank.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCEquipmentProperties.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCMaterial.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCNoInspection.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCOperatingCondition.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCStreamTank.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCStream.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.UCInspectionHistory.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.UCInspectionHistorySubform.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.UCRisk.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.UCRiskFactor.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.UCRiskSummary.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.WaitForm2.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.Properties.Resources.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.Resource1.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.RibbonForm1.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.test.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.WaitForm1.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.XtraUserControl1.resources
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.csproj.GenerateResource.Cache
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe.licenses
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Dat\Desktop\Update_RBI\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.BonusSkins.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Charts.v18.1.Core.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Data.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.DataAccess.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.DataAccess.v18.1.UI.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Docs.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Images.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Mvvm.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Office.v18.1.Core.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.RichEdit.v18.1.Export.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Snap.v18.1.Core.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Snap.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Snap.v18.1.Extensions.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.SpellChecker.v18.1.Core.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Spreadsheet.v18.1.Core.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Utils.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Utils.v18.1.UI.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Xpo.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraBars.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraCharts.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraCharts.v18.1.UI.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraCharts.v18.1.Wizard.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraEditors.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraGrid.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraLayout.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraNavBar.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraPrinting.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraRichEdit.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraRichEdit.v18.1.Extensions.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraSpellChecker.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraSpreadsheet.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraTreeList.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.CodeParser.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Diagram.v18.1.Core.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraDiagram.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Pdf.v18.1.Drawing.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraVerticalGrid.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Data.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.DataAccess.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.DataAccess.v18.1.UI.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Docs.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Mvvm.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Office.v18.1.Core.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Snap.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Snap.v18.1.Core.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Snap.v18.1.Extensions.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.SpellChecker.v18.1.Core.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Spreadsheet.v18.1.Core.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Utils.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Utils.v18.1.UI.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Xpo.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraBars.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraCharts.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraCharts.v18.1.UI.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraCharts.v18.1.Wizard.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraEditors.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraGrid.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraLayout.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraNavBar.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraPrinting.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraRichEdit.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraRichEdit.v18.1.Extensions.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraSpellChecker.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraSpreadsheet.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraTreeList.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Diagram.v18.1.Core.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraDiagram.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Pdf.v18.1.Drawing.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraVerticalGrid.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.Snap.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.Snap.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.Snap.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.Snap.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.Snap.v18.1.Extensions.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.Snap.v18.1.Extensions.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.Snap.v18.1.Extensions.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.Snap.v18.1.Extensions.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraRichEdit.v18.1.Extensions.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraRichEdit.v18.1.Extensions.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraRichEdit.v18.1.Extensions.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraRichEdit.v18.1.Extensions.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraSpellChecker.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraSpellChecker.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraSpellChecker.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraSpellChecker.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraSpreadsheet.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraSpreadsheet.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraSpreadsheet.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraSpreadsheet.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.csprojResolveAssemblyReference.cache
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.frmModelFluid.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmCreateInspectionPlan.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmInspectionFinding.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmInspectionPlanDetail.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmInspectionSummary.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmReport.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmSearchInspectionPlan.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmTankModelFluid.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmToxicFluid.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmUnits.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.CorrosionRateTank.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.frm_backup.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.frm_restored.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmImportExcelTank.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmImportExcel.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmDesignCode.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmEquipment.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmFacility.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmFacilityInput.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmGenericFluids.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmImportInspection.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmNewComponent.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmNewFluid.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmNewManufacturer.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmNewMaterial.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmNewSite.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCAssessmentInfo.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCCA.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCCoatLiningIsulationCladding.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCComponentPropertiesTank.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCComponentProperties.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCMaterialTank.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.UCCorrosionRateTank.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCDamageMechanism.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCEquipmentPropertiesTank.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCEquipmentProperties.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCMaterial.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCNoInspection.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCOperatingCondition.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCStreamTank.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCStream.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.UCInspectionHistory.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.UCInspectionHistorySubform.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.UCRisk.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.UCRiskFactor.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.UCRiskSummary.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.WaitForm2.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.Properties.Resources.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.Resource1.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.RibbonForm1.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.test.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.WaitForm1.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.XtraUserControl1.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\RBI.csproj.GenerateResource.Cache
+C:\Users\Dat\Desktop\Update_RBI - Copy\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe.licenses
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.BonusSkins.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Charts.v18.1.Core.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Data.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.DataAccess.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.DataAccess.v18.1.UI.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Docs.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Images.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Mvvm.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Office.v18.1.Core.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.RichEdit.v18.1.Export.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Snap.v18.1.Core.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Snap.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Snap.v18.1.Extensions.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.SpellChecker.v18.1.Core.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Spreadsheet.v18.1.Core.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Utils.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Utils.v18.1.UI.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Xpo.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraBars.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraCharts.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraCharts.v18.1.UI.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraCharts.v18.1.Wizard.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraEditors.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraGrid.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraLayout.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraNavBar.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraPrinting.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraRichEdit.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraRichEdit.v18.1.Extensions.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraSpellChecker.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraSpreadsheet.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraTreeList.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.CodeParser.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Diagram.v18.1.Core.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraDiagram.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Pdf.v18.1.Drawing.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraVerticalGrid.v18.1.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Data.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.DataAccess.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.DataAccess.v18.1.UI.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Docs.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Mvvm.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Office.v18.1.Core.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Snap.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Snap.v18.1.Core.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Snap.v18.1.Extensions.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.SpellChecker.v18.1.Core.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Spreadsheet.v18.1.Core.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Utils.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Utils.v18.1.UI.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Xpo.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraBars.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraCharts.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraCharts.v18.1.UI.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraCharts.v18.1.Wizard.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraEditors.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraGrid.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraLayout.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraNavBar.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraPrinting.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraRichEdit.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraRichEdit.v18.1.Extensions.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraSpellChecker.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraSpreadsheet.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraTreeList.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Diagram.v18.1.Core.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraDiagram.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.Pdf.v18.1.Drawing.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\DevExpress.XtraVerticalGrid.v18.1.xml
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.Snap.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.Snap.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.Snap.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.Snap.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.Snap.v18.1.Extensions.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.Snap.v18.1.Extensions.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.Snap.v18.1.Extensions.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.Snap.v18.1.Extensions.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraRichEdit.v18.1.Extensions.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraRichEdit.v18.1.Extensions.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraRichEdit.v18.1.Extensions.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraRichEdit.v18.1.Extensions.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraSpellChecker.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraSpellChecker.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraSpellChecker.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraSpellChecker.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraSpreadsheet.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraSpreadsheet.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraSpreadsheet.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraSpreadsheet.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.csprojResolveAssemblyReference.cache
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.frmModelFluid.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmCreateInspectionPlan.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmInspectionFinding.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmInspectionPlanDetail.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmInspectionSummary.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmReport.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmSearchInspectionPlan.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmTankModelFluid.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmToxicFluid.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmUnits.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.CorrosionRateTank.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.frm_backup.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.frm_restored.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmImportExcelTank.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmImportExcel.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmDesignCode.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmEquipment.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmFacility.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmFacilityInput.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmGenericFluids.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmImportInspection.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmNewComponent.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmNewFluid.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmNewManufacturer.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmNewMaterial.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmNewSite.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCAssessmentInfo.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCCA.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCCoatLiningIsulationCladding.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCComponentPropertiesTank.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCComponentProperties.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCMaterialTank.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.UCCorrosionRateTank.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCDamageMechanism.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCEquipmentPropertiesTank.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCEquipmentProperties.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCMaterial.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCNoInspection.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCOperatingCondition.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCStreamTank.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCStream.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.UCInspectionHistory.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.UCInspectionHistorySubform.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.UCRisk.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.UCRiskFactor.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.UCRiskSummary.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.WaitForm2.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.Properties.Resources.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.Resource1.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.RibbonForm1.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.test.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.WaitForm1.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.XtraUserControl1.resources
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\RBI.csproj.GenerateResource.Cache
+C:\Users\Dat\Desktop\Update_RBI - Copy - Copy\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe.licenses
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.BonusSkins.v18.1.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Charts.v18.1.Core.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Data.v18.1.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.DataAccess.v18.1.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.DataAccess.v18.1.UI.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Docs.v18.1.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Images.v18.1.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Mvvm.v18.1.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Office.v18.1.Core.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Printing.v18.1.Core.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.RichEdit.v18.1.Core.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.RichEdit.v18.1.Export.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Snap.v18.1.Core.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Snap.v18.1.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Snap.v18.1.Extensions.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Sparkline.v18.1.Core.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.SpellChecker.v18.1.Core.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Spreadsheet.v18.1.Core.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Utils.v18.1.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Utils.v18.1.UI.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Xpo.v18.1.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraBars.v18.1.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraCharts.v18.1.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraCharts.v18.1.UI.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraCharts.v18.1.Wizard.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraEditors.v18.1.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraGrid.v18.1.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraLayout.v18.1.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraNavBar.v18.1.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraPrinting.v18.1.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraRichEdit.v18.1.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraRichEdit.v18.1.Extensions.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraSpellChecker.v18.1.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraSpreadsheet.v18.1.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraTreeList.v18.1.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.CodeParser.v18.1.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Diagram.v18.1.Core.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraDiagram.v18.1.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Pdf.v18.1.Core.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Pdf.v18.1.Drawing.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraVerticalGrid.v18.1.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Data.v18.1.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.DataAccess.v18.1.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.DataAccess.v18.1.UI.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Docs.v18.1.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Mvvm.v18.1.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Office.v18.1.Core.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Printing.v18.1.Core.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.RichEdit.v18.1.Core.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Snap.v18.1.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Snap.v18.1.Core.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Snap.v18.1.Extensions.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Sparkline.v18.1.Core.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.SpellChecker.v18.1.Core.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Spreadsheet.v18.1.Core.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Utils.v18.1.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Utils.v18.1.UI.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Xpo.v18.1.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraBars.v18.1.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraCharts.v18.1.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraCharts.v18.1.UI.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraCharts.v18.1.Wizard.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraEditors.v18.1.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraGrid.v18.1.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraLayout.v18.1.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraNavBar.v18.1.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraPrinting.v18.1.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraRichEdit.v18.1.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraRichEdit.v18.1.Extensions.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraSpellChecker.v18.1.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraSpreadsheet.v18.1.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraTreeList.v18.1.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Diagram.v18.1.Core.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraDiagram.v18.1.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Pdf.v18.1.Core.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.Pdf.v18.1.Drawing.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\DevExpress.XtraVerticalGrid.v18.1.xml
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.Data.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.Data.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.Data.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.Data.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.DataAccess.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.DataAccess.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.DataAccess.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.DataAccess.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.DataAccess.v18.1.UI.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.DataAccess.v18.1.UI.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.DataAccess.v18.1.UI.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.DataAccess.v18.1.UI.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.Office.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.Office.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.Office.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.Office.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.Snap.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.Snap.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.Snap.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.Snap.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.Snap.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.Snap.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.Snap.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.Snap.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.Snap.v18.1.Extensions.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.Snap.v18.1.Extensions.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.Snap.v18.1.Extensions.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.Snap.v18.1.Extensions.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.Utils.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.Utils.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.Utils.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.Utils.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.Utils.v18.1.UI.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.Utils.v18.1.UI.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.Utils.v18.1.UI.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.Utils.v18.1.UI.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.Xpo.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.Xpo.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.Xpo.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.Xpo.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraBars.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraBars.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraBars.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraBars.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraCharts.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraCharts.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraCharts.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraCharts.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraGrid.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraGrid.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraGrid.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraGrid.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraLayout.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraLayout.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraLayout.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraLayout.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraRichEdit.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraRichEdit.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraRichEdit.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraRichEdit.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraRichEdit.v18.1.Extensions.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraRichEdit.v18.1.Extensions.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraRichEdit.v18.1.Extensions.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraRichEdit.v18.1.Extensions.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraSpellChecker.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraSpellChecker.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraSpellChecker.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraSpellChecker.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraSpreadsheet.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraSpreadsheet.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraSpreadsheet.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraSpreadsheet.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.Diagram.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.Diagram.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.Diagram.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.Diagram.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\de\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\es\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ja\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\bin\Release\ru\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.csprojResolveAssemblyReference.cache
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.frmModelFluid.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmCreateInspectionPlan.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmInspectionFinding.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmInspectionPlanDetail.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmInspectionSummary.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmReport.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmSearchInspectionPlan.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmTankModelFluid.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmToxicFluid.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmUnits.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.CorrosionRateTank.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.frm_backup.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.frm_restored.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmImportExcelTank.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmImportExcel.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmDesignCode.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmEquipment.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmFacility.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmFacilityInput.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmGenericFluids.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmImportInspection.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmNewComponent.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmNewFluid.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmNewManufacturer.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmNewMaterial.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.frmNewSite.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCAssessmentInfo.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCCA.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCCoatLiningIsulationCladding.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCComponentPropertiesTank.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCComponentProperties.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCMaterialTank.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.UCCorrosionRateTank.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCDamageMechanism.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCEquipmentPropertiesTank.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCEquipmentProperties.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCMaterial.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCNoInspection.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCOperatingCondition.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCStreamTank.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.InputDataForm.UCStream.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.UCInspectionHistory.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.UCInspectionHistorySubform.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.UCRisk.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.UCRiskFactor.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.UCRiskSummary.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.PRE.subForm.OutputDataForm.WaitForm2.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.Properties.Resources.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.Resource1.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.RibbonForm1.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.test.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.WaitForm1.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.XtraUserControl1.resources
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\RBI.csproj.GenerateResource.Cache
+D:\rbi code\app\17.6\Update_RBI\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe.licenses
